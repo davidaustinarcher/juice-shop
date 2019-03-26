@@ -43,3 +43,6 @@ config/*.yml
 !config/test.yml
 !config/7ms.yml
 !config/mozilla.yml
+node-contrast.tgz
+contrast_security.yaml
+*.tgz

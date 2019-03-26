@@ -57,3 +57,7 @@
   We strongly recommend
   [Zed Attack Proxy](https://code.google.com/p/zaproxy/) which is open
   source and very powerful, yet beginner friendly.
+
+## Protractor
+
+Try running node node_modules/protractor/bin/webdriver-manager update
